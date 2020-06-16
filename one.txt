@@ -8,3 +8,8 @@ Another line of text added by master.
 Another line of text added by new-branc
 
 Some more text added by master branch.
+
+Some more text added using new-branch
+
+some text
+
