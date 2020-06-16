@@ -6,3 +6,5 @@ Another line of text added by master. (using master branch)
 Another line of text added by master.
 
 Another line of text added by new-branch.
+
+Some more text added by master branch.
