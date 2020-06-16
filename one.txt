@@ -1,1 +1,5 @@
 This is the file one of master branch.
+
+Another line of text added by master.
+
+Another line of text added by new-branch.
