@@ -5,3 +5,5 @@ Another line of text added by master.
 Another line of text added by new-branch.
 
 Some more text added using new-branch
+
+some text
