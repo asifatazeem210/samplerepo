@@ -7,3 +7,5 @@ Another line of text added by new-branch.
 Some more text added using new-branch
 
 some text
+
+Some more content added by new-branch using git-hub
